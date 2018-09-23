@@ -3,6 +3,17 @@
 
 free interpretation of https://github.com/spring-petclinic
 
+#INIT
+------------------------------------
+    DevTools
+    Lombok
+    Web
+    Thymeleaf
+    JPA / Spring Data JPA / Spring ORM / Hibernate
+    MySQL JDBC driver
+    H2 db (with embedded support)
+    Actuator
+
 Layers
 ------------------------------------
     View:       Thymeleaf
